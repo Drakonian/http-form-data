@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Form Data Example">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2636168045 - NamedType 1803812000" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request failed with HTTP Code:: %1 Request Body:: %2</source>
+          <note from="Developer" annotates="general" priority="2">%1 = HttpCode, %2 = RequestBody</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FOD API Mgt - NamedType RequestErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2636168045 - NamedType 2185186290" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuportted content to sned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit FOD API Mgt - NamedType UnsupportedContentToSendErr</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Form Data Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Control Result - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Control Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Action 3124337699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Binary multipart data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Action BinaryFormData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Action 3124337699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Binary multipart data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Action BinaryFormData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Action 3577969701 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text multipart data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Action TextFormData - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 190339767 - Action 3577969701 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text multipart data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page FOD Form Data Test - Action TextFormData - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

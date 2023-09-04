@@ -1,0 +1,32 @@
+{
+  "id": "978b6498-9d1a-4a65-ad34-9d96dac2909a",
+  "name": "Form Data Example",
+  "publisher": "Volodymyr Dvernytskyi",
+  "version": "1.0.0.0",
+  "brief": "https://vld-nav.com/",
+  "description": "https://vld-nav.com/",
+  "privacyStatement": "https://vld-nav.com/",
+  "EULA": "https://vld-nav.com/",
+  "help": "https://vld-nav.com/",
+  "url": "https://vld-nav.com/",
+  "logo": "./logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 81851,
+      "to": 81900
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://vld-nav.com/",
+  "runtime": "11.0",
+  "features": ["TranslationFile"],
+  "resourceExposurePolicy":
+    {
+      "allowDebugging": true,
+      "allowDownloadingSource": true,
+      "includeSourceInSymbolFile": true
+    }
+}
