@@ -4,6 +4,7 @@ codeunit 81852 "FOD Form Data Example"
     var
         APIMgt: Codeunit "FOD API Mgt";
         ResponseData: Codeunit "Temp Blob";
+        FileInStream: InStream;
         FormData: TextBuilder;
         Boundary: Text;
         TextBuffer: Text;
