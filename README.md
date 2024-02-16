@@ -1,7 +1,7 @@
-# Performance of Number Series and Number Sequence
-It is fairly common practice to use Number Series to generate a key field value for a table in Business Central. This is very convenient, but do you know how slow it is? Let's try to look at examples and performance measurements, talk about Number Series and Allow Gaps, as well as Number Sequence.
+# Universal http SendRequest() method. Multipart form data.
+Today, I want to share an updated universal SendRequest method. Additionally, I'd like to show an example of working with multipart form data.
 
-https://vld-nav.com/number-generation-performance
+https://vld-nav.com/http-send-request
 
 
-![number-generation-performance](https://optim.tildacdn.one/tild3336-6139-4139-b264-373865626635/-/resize/760x/-/format/webp/DALLE_2024-01-17_173.png)
+![http-form-data](https://thumb.tildacdn.com/tild3338-6663-4566-a366-643636626362/-/resize/760x/-/format/webp/logo_2.png)
